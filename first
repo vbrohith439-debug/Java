@@ -1,0 +1,15 @@
+import java.util.*;
+import java.io.*;
+
+class Main {
+    public static void main(String[] args) {
+        Scanner R=new Scanner(System.in);
+        System.out.println("Enter X");
+        Integer g=R.nextInt();
+        int D;
+        D=g*3;
+        System.out.println(D+" people were there in total");
+        
+        
+    }
+}
